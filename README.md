@@ -1,0 +1,2 @@
+A complete 3-level 2D robotics assembly and action-arcade game built with Python and Pygame.Robots Lab Game (Python & Pygame)
+Suunnittelin ja kehitin kokonaisen 3-tasoisen 2D-peliprojektin Pythonilla ja Pygame-kirjastolla. Pelissä pelaaja kokoaa erilaisia robotteja (lumiaura, drone ja robottikoira) yhdistämällä elektronisia ja mekaanisia osia, suorittaa järjestelmätestaukset ja ohjaa robotteja toimintakentissä keräten pisteitä ja väistellen esteitä. Projekti sisältää animaatiot, ääniefektit, tutkanäkymän sekä monitasoisen pelilogiikan
